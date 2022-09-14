@@ -1,5 +1,8 @@
+addpath('functions')
+
 A_Straighten_NPC_by_JRMPC
-B_FindTheBestRotationAngle2D
+B1
+B2
 C_Straighten_2_rotation_angle_Draw_Z_figures
 D_Split_ring_and_draw_xy_view
 E_filter_outliers_by_GMM_and_density
