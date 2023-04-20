@@ -10,6 +10,6 @@ Praticle fusion methods is required to reconstruct the NPCs, please see: https:/
 
 #Example Usage Example of how to use the code is shown in the MATLAB script Demo.m You can run the demo to get all the resualts and figures shown in the manuscript.
 
-All the results and figrues are in the floder 'Results', except the file 'data2save.mat' as this file is too large to upload on the Github. You can generate it by running the Demo.
+All the results and figrues are in the floder 'figures'You can generate them by running the Demo.
 
 #Further questions For any other questions regarding this software, you can Search issues section or open a new topic there. Contact the authors: (Wenxiu Wang) w.wang-21@tudelft.nl (Sjoerd Stallinga) s.stallinga@tudelft.nl  (Bernd Rieger) b.rieger@tudelft.nl
