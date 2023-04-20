@@ -6,6 +6,6 @@ data2process.Classify_NR=Classify_NR;
 data2process.Classify_CR=Classify_CR;
 
 E2_filter_outliers_by_blob_density
-data2process.NR_pure_GD=Rings_GD{1,1};
-data2process.CR_pure_GD=Rings_GD{1,2};
+data2process.NR_pure_GD=NR_pure_GD;
+data2process.CR_pure_GD=CR_pure_GD;
 end
